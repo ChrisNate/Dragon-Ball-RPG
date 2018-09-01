@@ -1,13 +1,13 @@
 
 game.png
-size: 1024,1024
+size: 64,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-fondoPantallaPrincipal
+goku ssjblue izquierda
   rotate: false
   xy: 2, 2
-  size: 768, 512
-  orig: 768, 512
+  size: 41, 100
+  orig: 41, 100
   offset: 0, 0
   index: -1
